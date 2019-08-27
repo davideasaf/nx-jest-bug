@@ -1,4 +1,14 @@
-# TestWorkspace
+# TestWorkspace - JEST BUG
+
+## Replicate Test Bug
+
+```bash
+ng test test-workspace
+```
+
+- See `apps/test-workspace/src/app/app.component.spec.ts` for test file
+
+---
 
 This project was generated using [Nx](https://nx.dev).
 
